@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AlgosDS": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
